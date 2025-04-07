@@ -40,7 +40,7 @@
   	- Xiaosong Jia, Penghao Wu, Li Chen, Jiangwei Xie, Conghui He, Junchi Yan, Hongyang Li
   	- Keywords:  coarse-to-fine prediction, bev, cascaded framework
 
-# Preception
+# Perception
 - ICLR 2025
 - [DynamicCity: Large-Scale 4D Occupancy Generation from Dynamic Scenes](https://openreview.net/attachment?id=M7KyLjuN0A&name=pdf)
   	- Hengwei Bian, Lingdong Kong, Haozhe Xie, Liang Pan, Yu Qiao, Ziwei Liu
