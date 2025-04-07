@@ -1,7 +1,7 @@
 # E2E-Paper-List
 This repository is related to the field of autonomous driving and is constantly updated
 
-- E2E-Driving：input raw sensor data, direct output tracking point
+- E2E-Driving：input raw sensor data, output trajectory points directly
 - Perception：input raw sensor data, output features
 
 # E2E-Driving
