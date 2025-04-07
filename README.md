@@ -1,8 +1,6 @@
 # E2E-Paper-List
 
 
-
-
 # E2E-Driving
 - ICLR 2025
 - [Diffusion-Based Planning for Autonomous Driving with Flexible Guidance](https://openreview.net/pdf?id=wM2sfVgMDH)
@@ -25,6 +23,9 @@
 - [TopoMLP: A Simple yet Strong Pipeline for Driving Topology Reasoning](https://openreview.net/attachment?id=0gTW5JUFTW&name=pdf)
   	- Dongming Wu, Jiahao Chang, Fan Jia, Yingfei Liu, Tiancai Wang, Jianbing Shen
   	- Keywords:  Autonomous Driving, Driving Topology Understanding
+ 
+- ICLR 2023
+  
  
 - CVPR 2023
 - [Planning-oriented Autonomous Driving](https://arxiv.org/pdf/2212.10156)
@@ -68,7 +69,7 @@
 - [MamBEV: Enabling State Space Models to Learn Birds-Eye-View Representations](https://openreview.net/attachment?id=MvEkN2ejZ1&name=pdf)
   	- Hongyu Ke, Jack Morris, Kentaro Oguchi, Xiaofei Cao, Yongkang Liu, Haoxin Wang, Yi Ding
   	- Keywords: BEV, Bird’s Eye View, State Space Model, 3D Computer Vision
- 
+
 - ICLR 2024
 - [LaneSegNet: Map Learning with Lane Segment Perception for Autonomous Driving](https://openreview.net/attachment?id=LsURkIPYR5&name=pdf)
   	- Tianyu Li, Peijin Jia, Bangjun Wang, Li Chen, KUN JIANG, Junchi Yan, Hongyang Li
@@ -89,6 +90,19 @@
 - [Trajeglish: Traffic Modeling as Next-Token Prediction](https://openreview.net/attachment?id=Z59Rb5bPPP&name=pdf)
   	- Jonah Philion, Xue Bin Peng, Sanja Fidler
   	- Keywords: self-driving, traffic modeling, autonomous vehicles, simulation, motion prediction, transformer
+ 
+- ICLR 2023
+- [MapTR: Structured Modeling and Learning for Online Vectorized HD Map Construction](https://openreview.net/pdf?id=k7p_YAO7yE)
+  	- Bencheng Liao, Shaoyu Chen, Xinggang Wang, Tianheng Cheng, Qian Zhang, Wenyu Liu, Chang Huang
+  	- Keywords: Autonomous Driving, Online Vectorized HD Map Construction, End-to-End
+ 
+- [Leveraging Future Relationship Reasoning for Vehicle Trajectory Prediction ](https://openreview.net/pdf?id=CGBCTp2M6lA)
+  	- Daehee Park, Hobin Ryu, Yunseo Yang, Jegyeong Cho, Jiwon Kim, Kuk-Jin Yoon
+  	- Keywords: Trajectory prediction, Autonomous driving, Neural relation inference, Stochasticity modeling, Multimodal prediction
+ 
+- [DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection](https://openreview.net/pdf?id=3mRwyG5one)
+  	- Hao Zhang, Feng Li, Shilong Liu, Lei Zhang, Hang Su, Jun Zhu, Lionel Ni, Heung-Yeung Shum
+  	- Keywords: Object Detection, Detection Transformer, End-to-End Detector
 # VLA
 - ICLR 2025
 - [Predictive Inverse Dynamics Models are Scalable Learners for Robotic Manipulation](https://openreview.net/attachment?id=meRCKuUpmc&name=pdf)
