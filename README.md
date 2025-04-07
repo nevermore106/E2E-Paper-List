@@ -1,6 +1,9 @@
 # E2E-Paper-List
 This repository is related to the field of autonomous driving and is constantly updated
 
+- E2E-Driving：input raw sensor data, direct output tracking point
+- Perception：input raw sensor data, output features
+
 # E2E-Driving
 - ICLR 2025
 - [Diffusion-Based Planning for Autonomous Driving with Flexible Guidance](https://openreview.net/pdf?id=wM2sfVgMDH)
@@ -20,9 +23,6 @@ This repository is related to the field of autonomous driving and is constantly 
   	- Keywords:  end-to-end autonomous driving
 
 - ICLR 2024
-- [TopoMLP: A Simple yet Strong Pipeline for Driving Topology Reasoning](https://openreview.net/attachment?id=0gTW5JUFTW&name=pdf)
-  	- Dongming Wu, Jiahao Chang, Fan Jia, Yingfei Liu, Tiancai Wang, Jianbing Shen
-  	- Keywords:  Autonomous Driving, Driving Topology Understanding
  
 - ICLR 2023
   
@@ -99,6 +99,9 @@ This repository is related to the field of autonomous driving and is constantly 
 - [Trajeglish: Traffic Modeling as Next-Token Prediction](https://openreview.net/attachment?id=Z59Rb5bPPP&name=pdf)
   	- Jonah Philion, Xue Bin Peng, Sanja Fidler
   	- Keywords: self-driving, traffic modeling, autonomous vehicles, simulation, motion prediction, transformer
+- [TopoMLP: A Simple yet Strong Pipeline for Driving Topology Reasoning](https://openreview.net/attachment?id=0gTW5JUFTW&name=pdf)
+  	- Dongming Wu, Jiahao Chang, Fan Jia, Yingfei Liu, Tiancai Wang, Jianbing Shen
+  	- Keywords:  Autonomous Driving, Driving Topology Understanding
  
 - ICLR 2023
 - [MapTR: Structured Modeling and Learning for Online Vectorized HD Map Construction](https://openreview.net/pdf?id=k7p_YAO7yE)
