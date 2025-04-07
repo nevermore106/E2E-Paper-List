@@ -26,7 +26,16 @@
  
 - ICLR 2023
   
+- CVPR 2024
+- [VLP: Vision Language Planning for Autonomous Driving](https://arxiv.org/pdf/2401.05577)
+  	- Chenbin Pan, Burhaneddin Yaman, Tommaso Nesti, Abhirup Mallik, Alessandro G Allievi, Senem Velipasalar, Liu Ren
  
+- [DriveWorld: 4D Pre-trained Scene Understanding via World Models for Autonomous Driving](https://arxiv.org/pdf/2405.04390)
+  	- Chen Min, Dawei Zhao, Liang Xiao, Jian Zhao, Xinli Xu, Zheng Zhu, Lei Jin, Jianshu Li, Yulan Guo, Junliang Xing, Liping Jing, Yiming Nie, Bin Dai
+ 
+- [PARA-Drive: Parallelized Architecture for Real-time Autonomous Driving](https://openaccess.thecvf.com/content/CVPR2024/papers/Weng_PARA-Drive_Parallelized_Architecture_for_Real-time_Autonomous_Driving_CVPR_2024_paper.pdf)
+  	- Xinshuo Weng, Boris Ivanovic, Yan Wang, Yue Wang, Marco Pavone
+
 - CVPR 2023
 - [Planning-oriented Autonomous Driving](https://arxiv.org/pdf/2212.10156)
   	- YihanHu, Jiazhi Yang, LiChen, Keyu Li, Chonghao Sima, Xizhou Zhu, Siqi Chai, Senyao Du, Tianwei Lin, Wenhai Wang, Lewei Lu, Xiaosong Jia, Qiang Liu, Jifeng Dai, YuQiao, Hongyang Li
@@ -103,7 +112,18 @@
 - [DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection](https://openreview.net/pdf?id=3mRwyG5one)
   	- Hao Zhang, Feng Li, Shilong Liu, Lei Zhang, Hang Su, Jun Zhu, Lionel Ni, Heung-Yeung Shum
   	- Keywords: Object Detection, Detection Transformer, End-to-End Detector
-# VLA
+ 
+- CVPR 2024
+- [Lift-Attend-Splat: Bird's-eye-view Camera-lidar Fusion using Transformers](https://openaccess.thecvf.com/content/CVPR2024W/WAD/papers/Gunn_Lift-Attend-Splat_Birds-eye-view_Camera-lidar_Fusion_using_Transformers_CVPRW_2024_paper.pdf)
+  	- James Gunn, Zygmunt Lenyk, Anuj Sharma, Andrea Donati, Alexandru Buburuzan, John Redford, Romain Mueller
+ 
+- [UniPAD: A Universal Pre-training Paradigm for Autonomous Driving](https://arxiv.org/pdf/2310.08370)
+  	- Honghui Yang, Sha Zhang, Di Huang, Xiaoyang Wu, Haoyi Zhu, Tong He, Shixiang Tang, Hengshuang Zhao, Qibo Qiu, Binbin Lin, Xiaofei He, Wanli Ouyang
+ 
+- [Light the Night: A Multi-Condition Diffusion Framework for Unpaired Low-Light Enhancement in Autonomous Driving](https://arxiv.org/pdf/2404.04804)
+  	- Jinlong Li, Baolu Li, Zhengzhong Tu, Xinyu Liu, Qing Guo, Felix Juefei-Xu, Runsheng Xu, Hongkai Yu
+
+# robot-VLA
 - ICLR 2025
 - [Predictive Inverse Dynamics Models are Scalable Learners for Robotic Manipulation](https://openreview.net/attachment?id=meRCKuUpmc&name=pdf)
   	- Yang Tian, Sizhe Yang, Jia Zeng, Ping Wang, Dahua Lin, Hao Dong, Jiangmiao Pang
