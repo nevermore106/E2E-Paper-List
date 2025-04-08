@@ -1,10 +1,10 @@
 # E2E-Paper-List
 This repository is related to the field of autonomous driving and is constantly updated
 
-- E2E-Driving：input raw sensor data, output trajectory points directly
-- Perception：input raw sensor data, output features
+- [E2E-Driving](#e2e-driving)：input raw sensor data, output trajectory points directly
+- [Perception](#perception)：input raw sensor data, output features
 
-# E2E-Driving
+### E2E-Driving
 - ICLR 2025
 - [Diffusion-Based Planning for Autonomous Driving with Flexible Guidance](https://openreview.net/pdf?id=wM2sfVgMDH)
   	- Yinan Zheng, Ruiming Liang, Kexin ZHENG, Jinliang Zheng, Liyuan Mao, Jianxiong Li, Weihao Gu, Rui Ai, Shengbo Eben Li, Xianyuan Zhan, Jingjing Liu
@@ -49,7 +49,7 @@ This repository is related to the field of autonomous driving and is constantly 
   	- Xiaosong Jia, Penghao Wu, Li Chen, Jiangwei Xie, Conghui He, Junchi Yan, Hongyang Li
   	- Keywords:  coarse-to-fine prediction, bev, cascaded framework
 
-# Perception
+### Perception
 - ICLR 2025
 - [DynamicCity: Large-Scale 4D Occupancy Generation from Dynamic Scenes](https://openreview.net/attachment?id=M7KyLjuN0A&name=pdf)
   	- Hengwei Bian, Lingdong Kong, Haozhe Xie, Liang Pan, Yu Qiao, Ziwei Liu
@@ -126,13 +126,13 @@ This repository is related to the field of autonomous driving and is constantly 
 - [Light the Night: A Multi-Condition Diffusion Framework for Unpaired Low-Light Enhancement in Autonomous Driving](https://arxiv.org/pdf/2404.04804)
   	- Jinlong Li, Baolu Li, Zhengzhong Tu, Xinyu Liu, Qing Guo, Felix Juefei-Xu, Runsheng Xu, Hongkai Yu
 
-# robot-VLA
+### robot-VLA
 - ICLR 2025
 - [Predictive Inverse Dynamics Models are Scalable Learners for Robotic Manipulation](https://openreview.net/attachment?id=meRCKuUpmc&name=pdf)
   	- Yang Tian, Sizhe Yang, Jia Zeng, Ping Wang, Dahua Lin, Hao Dong, Jiangmiao Pang
   	- Keywords: Robotic Manipulation ; Pre-training ; Visual Foresight ; Inverse Dynamics ; Large-scale robot dataset
  
-# scaling law
+### scaling law
 - ICLR 2025
 - [Data Scaling Laws in Imitation Learning for Robotic Manipulation](https://openreview.net/attachment?id=pISLZG7ktL&name=pdf)
   	- Fanqi Lin, Yingdong Hu, Pingyue Sheng, Chuan Wen, Jiacheng You, Yang Gao
