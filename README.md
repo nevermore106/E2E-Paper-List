@@ -1,5 +1,5 @@
 # E2E-Paper-List
-This repository is related to the field of autonomous driving and is constantly updated
+This repository is a collections of Autonomous Driving papers and is constantly updated
 
 - [E2E-Driving](#e2e-driving)：input raw sensor data, output trajectory points directly
 - [Perception](#perception)：input raw sensor data, output features
@@ -25,7 +25,7 @@ This repository is related to the field of autonomous driving and is constantly 
 - ICLR 2024
  
 - ICLR 2023
-  
+- CVPR 2025
 - CVPR 2024
 - [VLP: Vision Language Planning for Autonomous Driving](https://arxiv.org/pdf/2401.05577)
   	- Chenbin Pan, Burhaneddin Yaman, Tommaso Nesti, Abhirup Mallik, Alessandro G Allievi, Senem Velipasalar, Liu Ren
@@ -115,7 +115,11 @@ This repository is related to the field of autonomous driving and is constantly 
 - [DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection](https://openreview.net/pdf?id=3mRwyG5one)
   	- Hao Zhang, Feng Li, Shilong Liu, Lei Zhang, Hang Su, Jun Zhu, Lionel Ni, Heung-Yeung Shum
   	- Keywords: Object Detection, Detection Transformer, End-to-End Detector
- 
+
+- CVPR 2025
+- [SparseAlign: A Fully Sparse Framework for Cooperative Object Detection](https://arxiv.org/pdf/2503.12982)
+  	- Yunshuang Yuan, Yan Xia, Daniel Cremers, Monika Sester
+  
 - CVPR 2024
 - [Lift-Attend-Splat: Bird's-eye-view Camera-lidar Fusion using Transformers](https://openaccess.thecvf.com/content/CVPR2024W/WAD/papers/Gunn_Lift-Attend-Splat_Birds-eye-view_Camera-lidar_Fusion_using_Transformers_CVPRW_2024_paper.pdf)
   	- James Gunn, Zygmunt Lenyk, Anuj Sharma, Andrea Donati, Alexandru Buburuzan, John Redford, Romain Mueller
