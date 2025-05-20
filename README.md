@@ -49,6 +49,9 @@ This repository is a collections of Autonomous Driving papers and is constantly 
   	- Xiaosong Jia, Penghao Wu, Li Chen, Jiangwei Xie, Conghui He, Junchi Yan, Hongyang Li
   	- Keywords:  coarse-to-fine prediction, bev, cascaded framework
 
+- 
+- [End-to-End Driving with Online Trajectory Evaluation via BEV World Model](https://arxiv.org/pdf/2504.01941)
+  	- Yingyan Li, Yuqi Wang, Yang Liu, Jiawei He, Lue Fan, Zhaoxiang Zhang
 ### Perception
 - ICLR 2025
 - [DynamicCity: Large-Scale 4D Occupancy Generation from Dynamic Scenes](https://openreview.net/attachment?id=M7KyLjuN0A&name=pdf)
@@ -142,6 +145,9 @@ This repository is a collections of Autonomous Driving papers and is constantly 
  
 - [OpenVLA: An Open-Source Vision-Language-Action Model](https://arxiv.org/pdf/2406.09246)
   	- Moo Jin Kim, Karl Pertsch, Siddharth Karamcheti, Ted Xiao, Ashwin Balakrishna, Suraj Nair, Rafael Rafailov, Ethan Foster, Grace Lam, Pannag Sanketi, Quan Vuong, Thomas Kollar, Benjamin Burchfiel, Russ Tedrake, Dorsa Sadigh, Sergey Levine, Percy Liang, Chelsea Finn
+
+- [π0: A Vision-Language-Action Flow Model for General Robot Control](https://arxiv.org/pdf/2410.24164)
+  	- Kevin Black, Noah Brown, Danny Driess, Adnan Esmail, Michael Equi, Chelsea Finn, Niccolo Fusai, Lachy Groom, Karol Hausman, Brian Ichter, Szymon Jakubczak, Tim Jones, Liyiming Ke, Sergey Levine, Adrian Li-Bell, Mohith Mothukuri, Suraj Nair, Karl Pertsch, Lucy Xiaoyang Shi, James Tanner, Quan Vuong, Anna Walling, Haohuan Wang, Ury Zhilinsky
  
 ### scaling law
 - ICLR 2025
