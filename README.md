@@ -135,6 +135,13 @@ This repository is a collections of Autonomous Driving papers and is constantly 
 - [Predictive Inverse Dynamics Models are Scalable Learners for Robotic Manipulation](https://openreview.net/attachment?id=meRCKuUpmc&name=pdf)
   	- Yang Tian, Sizhe Yang, Jia Zeng, Ping Wang, Dahua Lin, Hao Dong, Jiangmiao Pang
   	- Keywords: Robotic Manipulation ; Pre-training ; Visual Foresight ; Inverse Dynamics ; Large-scale robot dataset
+
+- 
+- [3D-VLA: A 3D Vision-Language-Action Generative World Model](https://arxiv.org/pdf/2403.09631)
+  	- Haoyu Zhen, Xiaowen Qiu, Peihao Chen, Jincheng Yang, Xin Yan, Yilun Du, Yining Hong, Chuang Gan
+ 
+- [OpenVLA: An Open-Source Vision-Language-Action Model](https://arxiv.org/pdf/2406.09246)
+  	- Moo Jin Kim, Karl Pertsch, Siddharth Karamcheti, Ted Xiao, Ashwin Balakrishna, Suraj Nair, Rafael Rafailov, Ethan Foster, Grace Lam, Pannag Sanketi, Quan Vuong, Thomas Kollar, Benjamin Burchfiel, Russ Tedrake, Dorsa Sadigh, Sergey Levine, Percy Liang, Chelsea Finn
  
 ### scaling law
 - ICLR 2025
