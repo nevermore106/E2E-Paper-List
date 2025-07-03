@@ -26,6 +26,11 @@ This repository is a collections of Autonomous Driving papers and is constantly 
  
 - ICLR 2023
 - CVPR 2025
+- [OmniDrive: A Holistic Vision-Language Dataset for Autonomous Driving with Counterfactual Reasoning](https://arxiv.org/pdf/2405.01533)
+  	- Shihao Wang, Zhiding Yu, Xiaohui Jiang, Shiyi Lan, Min Shi1, Nadine Chang, Jan Kautz, Ying Li, Jose M. Alvarez
+- [CarPlanner: Consistent Auto-regressive Trajectory Planning for Large-scale Reinforcement Learning in Autonomous Driving](https://arxiv.org/pdf/2502.19908)
+  	- Dongkun Zhang, Jiaming Liang, Ke Guo, Sha Lu, Qi Wang, Rong Xiong, B Zhenwei Miao, Yue Wang
+
 - CVPR 2024
 - [VLP: Vision Language Planning for Autonomous Driving](https://arxiv.org/pdf/2401.05577)
   	- Chenbin Pan, Burhaneddin Yaman, Tommaso Nesti, Abhirup Mallik, Alessandro G Allievi, Senem Velipasalar, Liu Ren
